@@ -1,0 +1,31 @@
+9:15 AM 12/5/2025
+
+
+Switch#show ver
+Cisco IOS XE Software, Version 17.09.05
+Cisco IOS Software [Cupertino], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 17.9.5, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2024 by Cisco Systems, Inc.
+Compiled Tue 30-Jan-24 15:48 by mcpre
+
+
+
+Switch#show inv
+
+NAME: "Power Supply Module 0", DESCR: "Cisco Catalyst 9500 Series 650W AC Power Supply"
+PID: C9K-PWR-650WAC-R  , VID: V01  , SN: DCI285024GU
+
+NAME: "Power Supply Module 1", DESCR: "Cisco Catalyst 9500 Series 650W AC Power Supply"
+PID: C9K-PWR-650WAC-R  , VID: V01  , SN: DCI285024HU
+
+NAME: "TwentyFiveGigE1/0/5", DESCR: "SFP 25GE CU3M"
+PID: SFP-H25G-CU3M       , VID: V01  , SN: LCC2827G871
+
+NAME: "TwentyFiveGigE1/0/13", DESCR: "SFP 10/25GE LR-S"
+PID: SFP-10/25G-LR-S     , VID: V02  , SN: MZH2846019H
+
+NAME: "TwentyFiveGigE1/0/39", DESCR: "GE T"
+PID: GLC-TE              , VID: V03  , SN: OPM28460T2N
+
+NAME: "TwentyFiveGigE1/0/44", DESCR: "SFP 25GE CU1M"
+PID: SFP-H25G-CU1M       , VID: V01  , SN: APF26010BW2
